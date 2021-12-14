@@ -4,10 +4,7 @@ body {
   
 font-family: 'Almarai', sans-serif; !important;
 }
-body h2 {
-    text-align: center;
-    font-size: 40px;
-}
+
 .navbar img {
     width: 50px ;
     height: 40px;
@@ -171,10 +168,7 @@ background-attachment: fixed;
     background-size: 100% 100%;
     
 }
-.bio h2, p {
-    text-align: center; 
-    color: wheat;
-}
+
 .protect h4 {
     font-size: 25px;
     color: yellow;
@@ -195,4 +189,23 @@ background-attachment: fixed;
     text-decoration: none;
     
     
+}
+.container-fluid p {
+    text-align: center;
+}
+.container p {
+    text-align: center;
+}
+.bio h3,p {
+    color: bisque;
+}
+.n2 a {
+    text-decoration: none;
+    color: black;
+}
+.tex3 p {
+    color: black;
+}
+.cv a h5 {
+    color: black;
 }
